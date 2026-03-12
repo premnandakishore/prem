@@ -2,45 +2,60 @@
 <h3 align="center">AI Engineer | Machine Learning | Computer Vision | Flask Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Building+Real+World+AI+Systems">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Developer;AI+System+Builder;Python+Developer;Building+Real+World+AI+Projects">
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🔭 Currently working on **Machine Learning & AI projects**
+🔭 Currently working on **Machine Learning, AI & Data Science Projects**
 
-💡 Interested in **Real-Time ML Systems and Computer Vision**
+🧠 Interested in **Computer Vision and Real-Time AI Systems**
 
-📚 Practicing **Data Structures and Algorithms**
+💻 Practicing **Data Structures and Algorithms**
 
 🚀 Building **intelligent systems that solve real-world problems**
 
 🌐 Portfolio  
-👉 https://prem-vision-core.lovable.app/
+https://prem-vision-core.lovable.app/
 
 📫 Contact  
-👉 **premnandakishorek@gmail.com**
+**premnandakishorek@gmail.com**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/premnandakishor/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/premnandkishore"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="https://x.com/prem24620"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
-<a href="https://www.kaggle.com/premnandakishore"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle"></a>
-<a href="https://leetcode.com/u/PremNandaKishore/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
-<a href="https://www.hackerrank.com/profile/nandhuchowdary21"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"></a>
+
+<a href="https://www.linkedin.com/in/premnandakishor/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/prem24620">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="https://www.kaggle.com/premnandakishore">
+<img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<a href="https://leetcode.com/u/PremNandaKishore/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/nandhuchowdary21">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java)
@@ -49,7 +64,7 @@
 
 ---
 
-### AI / ML
+### AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch)
@@ -66,12 +81,28 @@
 
 ---
 
-### Data / Tools
+### Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter)
+
+---
+
+# 🚀 Featured Projects
+
+⭐ **Smart Gym Planner**  
+AI-powered fitness planner that generates personalized workout & nutrition plans using BMI.
+
+⭐ **Real-Time Animal Collision Prevention System**  
+Deep Learning system using YOLOv8 and Computer Vision to prevent wildlife accidents.
+
+⭐ **Wine Quality Prediction**  
+Machine learning model predicting wine quality using physicochemical features.
+
+⭐ **Restaurant Recommendation System**  
+ML recommendation system based on user preference and sentiment analysis.
 
 ---
 
@@ -91,9 +122,15 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=premnandkishore&theme=onedark)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/premnandkishore/premnandkishore/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
