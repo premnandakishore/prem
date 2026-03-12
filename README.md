@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Prem Nanda Kishore</h1>
-<h3 align="center">AI Engineer | Machine Learning | Computer Vision | Flask Developer</h3>
+<h3 align="center">AI Engineer | Machine Learning | Computer Vision | Python Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Developer;AI+System+Builder;Python+Developer;Building+Real+World+AI+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Computer+Vision+Developer;Python+Developer;AI+System+Builder">
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🔭 Currently working on **Machine Learning, AI & Data Science Projects**
+🔭 Currently working on **Machine Learning & AI Projects**
 
 🧠 Interested in **Computer Vision and Real-Time AI Systems**
 
-💻 Practicing **Data Structures and Algorithms**
+📚 Practicing **Data Structures and Algorithms**
 
-🚀 Building **intelligent systems that solve real-world problems**
+🚀 Building **AI systems that solve real-world problems**
 
 🌐 Portfolio  
 https://prem-vision-core.lovable.app/
 
-📫 Contact  
-**premnandakishorek@gmail.com**
+📫 Email  
+premnandakishorek@gmail.com
 
 ---
 
@@ -76,61 +76,53 @@ https://prem-vision-core.lovable.app/
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express)
 
 ---
 
 ### Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter)
 
 ---
 
 # 🚀 Featured Projects
 
-⭐ **Smart Gym Planner**  
-AI-powered fitness planner that generates personalized workout & nutrition plans using BMI.
+⭐ **Smart Gym Planner Web Application**  
+AI-based system that generates personalized workout and nutrition plans.
 
 ⭐ **Real-Time Animal Collision Prevention System**  
-Deep Learning system using YOLOv8 and Computer Vision to prevent wildlife accidents.
+Deep Learning system using Computer Vision to prevent wildlife accidents on highways.
 
 ⭐ **Wine Quality Prediction**  
 Machine learning model predicting wine quality using physicochemical features.
 
 ⭐ **Restaurant Recommendation System**  
-ML recommendation system based on user preference and sentiment analysis.
+Recommendation system based on user preferences.
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=premnandkishore&theme=tokyonight&show_icons=true)
+![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=premnandkishore&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=premnandkishore&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=premnandkishore&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=premnandkishore&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premnandkishore&layout=compact&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=premnandkishore&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=premnandkishore&theme=tokyo-night)
 
 ---
 
 # 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=premnandkishore&theme=onedark)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/premnandkishore/premnandkishore/blob/output/github-contribution-grid-snake.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=premnandkishore&theme=onedark)
 
 ---
 
